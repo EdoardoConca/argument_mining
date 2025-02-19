@@ -1,5 +1,5 @@
 # Argument Mining in Healthcare Domain
-The current repository tries to implement the work of [Enhancing evidence-based medicine with natural language argumentative analysis of clinical trials](https://www.sciencedirect.com/science/article/abs/pii/S0933365721000919) by [Tobias Mayer et al.] for the deep learning project work.
+This repository aims to reproduce the work of [Enhancing evidence-based medicine with natural language argumentative analysis of clinical trials](https://www.sciencedirect.com/science/article/abs/pii/S0933365721000919) by [Tobias Mayer et al.] , incorporating key improvements suggested by the authors as part of a deep learning project.
 
 More specifically, the Argument Component model is made up of two components:
 - The Argument Component Detector (ACD) model: it aims to detect the argument components in the text and classify them into Claims and Premises.
